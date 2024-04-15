@@ -357,6 +357,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/AnimationAndMovementController.cs"
 "Assets/Animations/PlayerInput.cs"
+"Assets/Lowpoly Toon Cat Lite/Demo/Cat_Lite_Demo.cs"
 "Assets/Supercyan Character Pack Free Sample/Scripts/AccessoryLogic.cs"
 "Assets/Supercyan Character Pack Free Sample/Scripts/AccessoryWearLogic.cs"
 "Assets/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
